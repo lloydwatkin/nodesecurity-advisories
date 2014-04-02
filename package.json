@@ -1,0 +1,27 @@
+{
+  "name": "nodesecurity-advisories",
+  "version": "0.0.0",
+  "description": "Node Security Project Published Advisories ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodesecurity/nodesecurity-advisories.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "javascript",
+    "security",
+    "sec",
+    "advisories"
+  ],
+  "author": "David Dias <david@liftsecurity.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodesecurity/nodesecurity-advisories/issues"
+  },
+  "homepage": "https://github.com/nodesecurity/nodesecurity-advisories"
+}
