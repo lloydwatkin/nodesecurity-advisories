@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/nodesecurity/nodesecurity-advisories/issues"
   },
-  "homepage": "https://github.com/nodesecurity/nodesecurity-advisories"
+  "homepage": "https://github.com/nodesecurity/nodesecurity-advisories",
+  "dependencies": {
+    "precommit-hook": "^0.3.10",
+    "walk": "^2.3.1",
+    "meta-marked": "^0.3.1"
+  }
 }
